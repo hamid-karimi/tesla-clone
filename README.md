@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+<a href="https://tesla-clone-b9942.web.app/">Live Demo</a>
+
+Tesla Clone created by: React, Redux, Styled Components and hosted in firebase.
 
 ## Available Scripts
 
